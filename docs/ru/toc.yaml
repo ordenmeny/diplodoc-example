@@ -3,6 +3,8 @@ href: index.yaml
 items: 
   - name: О проекте
     href: about.md
+  - name: Новая страница
+    href: new-page.md
   - name: Дополнительная страница
     href: page.md
   - name: Другая страница
@@ -11,3 +13,5 @@ items:
     include:
       path: sub-section/toc.yaml
       mode: link
+  - name: Ну самая новая
+    href: absol-new.md
